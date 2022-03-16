@@ -1,0 +1,2 @@
+I compile c++ code with:
+g++ -o Main *.cpp -std=c++11
